@@ -1,4 +1,4 @@
-**QuickHeal - IT Infrastructure Risk & Compliance Dashboard**
+**Arun Mobiles - IT Security & Compliance Dashboard**
 
 A modern, enterprise-grade IT audit and compliance dashboard designed to monitor, analyze, and manage organizational security frameworks and risk posture in real time.
 
